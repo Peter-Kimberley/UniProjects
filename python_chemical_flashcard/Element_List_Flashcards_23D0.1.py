@@ -3,9 +3,9 @@
 
 """
 This program tests a users knowledge of chemical symbols.
-The program asks the user to press the s key to test thier knowledge or press the q key to quit.
+The program asks the user to press the s key to show a flash card or press the q key to quit.
 If the s key is pressed, the program randomly picks an chemical element from the element_list, 
-and shows the element to the user and asks the user to type the correct chemical symbol,
+and shows the element to the user, and then asks the user to type the correct chemical symbol,
 if the user correctly types the symbol the user is informed that they are correct and the element
 is removed from the element_list.
 If the user gets the symbol wrong, the program then tells the user they are wrong and the correct symbol is shown. 
